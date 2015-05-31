@@ -1,7 +1,6 @@
 # Folder-On-Off-With-Redirect
 Folder On/Off With Redirect images in .gif and .png format.
 
-
 Image Pack Name:<br />
 Folder On/Off With Redirect<br />
 Designer: BurkeKnight<br />
