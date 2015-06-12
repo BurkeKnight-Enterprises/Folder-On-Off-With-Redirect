@@ -1,5 +1,11 @@
 # Folder-On-Off-With-Redirect
-Folder On/Off With Redirect images in .gif and .png format.
+Folder On/Off With Redirect images in .gif and .png format.<br />
+
+[![Forks](https://img.shields.io/github/forks/BK-Templates/Folder-On-Off-With-Redirect.svg)](https://github.com/BK-Templates/Folder-On-Off-With-Redirect/network)
+[![Stars](https://img.shields.io/github/stars/BK-Templates/Folder-On-Off-With-Redirect.svg)](hhttps://github.com/BK-Templates/Folder-On-Off-With-Redirect/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BK-Templates/Folder-On-Off-With-Redirect.svg)](https://github.com/BK-Templates/Folder-On-Off-With-Redirect/issues)
+[![Current Release](https://img.shields.io/github/release/BK-Templates/Folder-On-Off-With-Redirect.svg)](https://github.com/BK-Templates/Folder-On-Off-With-Redirect/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
 Image Pack Name:<br />
 Folder On/Off With Redirect<br />
